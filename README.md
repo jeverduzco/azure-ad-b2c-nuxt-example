@@ -23,7 +23,7 @@ For detailed explanation on how things work, check out the [documentation](https
 
 
 ```bash
-# Open /plugins/msal.js and and replaces the data where indicated by the code
+# Open /plugins/msal.js and replaces the data where indicated by the code
 ```
 
 
